@@ -1,3 +1,5 @@
+Epagneul是一个可视化和调查 Windows 事件日志的工具。
+
 <p align="center"><img width="100" src="https://github.com/jurelou/epagneul/blob/master/images/logo-rounded.png?raw=true" alt="Vue logo"></p>
 <h2 align="center">epagneul</h2>
 
